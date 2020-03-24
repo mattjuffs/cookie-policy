@@ -1,4 +1,7 @@
 # Cookie Policy
 Boilerplate Cookie Policy to meet UK and EU Laws
 
-Example hosted at http://slickhouse.com/cookiepolicy.html
+Examples:
+
+* [Slickhouse.com](http://slickhouse.com/cookiepolicy.html)
+* [SlickCMS](https://slickcms.azurewebsites.net/cookies)
