@@ -5,3 +5,7 @@ Examples:
 
 * [Slickhouse.com](http://slickhouse.com/cookiepolicy.html)
 * [SlickCMS](https://slickcms.azurewebsites.net/cookies)
+* [Moss Bros](https://www.moss.co.uk/privacy-policy) - _cookie policy tab_
+* [Yours Clothing](https://www.yoursclothing.co.uk/cookie-policy)
+* [Suit Direct](https://www.suitdirect.co.uk/privacypolicy)
+* [All Terrain Cycles](https://www.allterraincycles.co.uk/cookiepolicy)
